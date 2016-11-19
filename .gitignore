@@ -1,0 +1,5 @@
+*.o
+*.so
+mini2440test.*
+main_app
+
